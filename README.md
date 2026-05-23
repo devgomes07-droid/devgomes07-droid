@@ -41,36 +41,4 @@ Backend developer focused on Spring Boot, REST APIs and scalable applications.
 ---
 
 # 🛠 Technologies & Tools
-
-### Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- SQL
-
-### Backend
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- Spring Data JPA / Hibernate
-- RESTful APIs
-- Layered Architecture
-- DTO Pattern
-- Lombok
-
-### Database
-- PostgreSQL
-- H2 Database
-
-### Frontend
-- Chart.js
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Docker
-- Swagger/OpenAPI
-- JUnit
-- Mockito
+Java • JavaScript • HTML5 • CSS3 • SQL • Spring Boot • Spring Security • JWT • Spring Data JPA/Hibernate • PostgreSQL • H2 Database • Lombok • REST APIs • Chart.js • Docker • Swagger/OpenAPI • JUnit • Mockito • Git • GitHub • Postman
