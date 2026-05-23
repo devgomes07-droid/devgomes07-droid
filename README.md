@@ -10,6 +10,7 @@ Backend developer focused on Spring Boot, REST APIs and scalable applications.
 
 <p align="left">
 
+<!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -18,17 +19,22 @@ Backend developer focused on Spring Boot, REST APIs and scalable applications.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-
+<!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50"/>
 
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+
+<!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 
 </p>
 
@@ -36,16 +42,35 @@ Backend developer focused on Spring Boot, REST APIs and scalable applications.
 
 # 🛠 Technologies & Tools
 
+### Languages
 - Java
 - JavaScript
 - HTML5
 - CSS3
 - SQL
+
+### Backend
 - Spring Boot
+- Spring Security
+- JWT Authentication
 - Spring Data JPA / Hibernate
-- H2 Database
+- RESTful APIs
+- Layered Architecture
+- DTO Pattern
 - Lombok
-- Chart.js
+
+### Database
 - PostgreSQL
+- H2 Database
+
+### Frontend
+- Chart.js
+
+### Tools
+- Git
+- GitHub
 - Postman
-- Git & GitHub
+- Docker
+- Swagger/OpenAPI
+- JUnit
+- Mockito
